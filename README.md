@@ -98,18 +98,6 @@ Santos vs Corinthians - Copa do Brasil,2026-02-20,2026-02-20,00:00,00:00,True
 
 Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-
-- Reportar bugs
-- Sugerir novas funcionalidades
-- Enviar pull requests
-
-## 📧 Contato
-
-Para dúvidas ou sugestões, abra uma issue no repositório.
-
 ---
 
 **Aviso Legal**: Este projeto foi criado apenas para fins educacionais. Certifique-se de respeitar os termos de serviço do ESPN Brasil ao usar este scraper.
