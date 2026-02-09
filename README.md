@@ -25,7 +25,7 @@ Um web scraper em Python que extrai automaticamente a agenda de times de futebol
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/SoccerAgenda.git
+git clone https://github.com/pedro31camilo/SoccerAgenda.git
 cd SoccerAgenda
 ```
 
